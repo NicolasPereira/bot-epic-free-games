@@ -1,18 +1,18 @@
-# bot-epic-free-games
-Sistema básico de controle de sala de cinema feito em JS Vanilla
+# Bot Epic Free Games :video_game:
+Bot feito para Discord utilizando nodeJS. 
 
-## Requisitos
+## Requisitos :pushpin:
 O Bot tem como requisito principal notificar todos os usuários do 
 servidor sobre os jogos gratuitos da EPIC Game
 
-## Funcionalidades
+## Funcionalidades :triangular_flag_on_post:
 O bot utiliza um CRON para repetir o envio de mensagem todas
 as quintas-feiras.
 
-## Conceitos utilizados
+## Conceitos utilizados :book:
 - CRON
 
-## Bibliotecas Utilizadas
+## Tecnologias Utilizadas :computer:
 - [node-schedules](https://github.com/node-schedule/node-schedule)
 - [dotenv](https://github.com/motdotla/dotenv)
 - [discord.js](https://github.com/discordjs/discord.js)
